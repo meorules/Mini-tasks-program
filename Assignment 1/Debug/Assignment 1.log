@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(149,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(211,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(226,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(278,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(349,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(408,18): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Mazen\source\repos\Assignment 1\Source.cpp(414,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Assignment 1.vcxproj -> C:\Users\Mazen\source\repos\Assignment 1\Debug\Assignment 1.exe
